@@ -1,5 +1,4 @@
 # week-05-work-day-scheduler
-## Week 05 Work Day Scheduler - UCF Coding BootCamp
 
 - Components in this repo:
   - HTML
@@ -11,5 +10,5 @@
 
 ![Image of FullStackable](https://i.postimg.cc/L84jYScd/calendar.png)
 
-Check my work  - Click!
-[HERE](https://fullstackable.github.io/week-05-work-day-scheduler/)
+Links
+https://fullstackable.github.io/week-05-work-day-scheduler/
